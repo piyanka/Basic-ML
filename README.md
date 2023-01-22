@@ -5,14 +5,14 @@ This repository contains various machine learning models implemented in Python. 
 ## Models
 The repository contains the following machine learning models:
 
-Linear Regression
-Logistic Regression
-K-Nearest Neighbors
-Decision Trees
-Random Forest
-Support Vector Machines
-Neural Network
-Naive Bayes
-K-Means Clustering
+Linear Regression,
+Logistic Regression,
+K-Nearest Neighbors,
+Decision Trees,
+Random Forest,
+Support Vector Machines,
+Neural Network,
+Naive Bayes,
+K-Means Clustering,
 
 Each model is implemented in its own Jupyter notebook and is well commented to aid understanding.
