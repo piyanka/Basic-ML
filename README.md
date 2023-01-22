@@ -13,6 +13,6 @@ Random Forest,
 Support Vector Machines,
 Neural Network,
 Naive Bayes,
-K-Means Clustering,
+K-Means Clustering
 
 Each model is implemented in its own Jupyter notebook and is well commented to aid understanding.
