@@ -1,8 +1,8 @@
-#Machine Learning Models Repository
+# Machine Learning Models Repository
 
 This repository contains various machine learning models implemented in Python. The goal of this repository is to provide a collection of basic machine learning models for educational and research purposes.
 
-##Models
+## Models
 The repository contains the following machine learning models:
 
 Linear Regression
